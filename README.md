@@ -1,5 +1,5 @@
 # C-with-Pattern
-### This code prints the following pattern
+### Pattern.c will print the following pattern
 ##### input : 6
 ##### output :
 | 1 | 7  | 12 | 16 | 19 | 21 |
