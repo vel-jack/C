@@ -1,8 +1,8 @@
 # C-with-Pattern
 ***
 ### [Pattern.c](https://github.com/vel-jack/C/blob/master/pattern.c) will print the following pattern
-##### input : 6
-##### output :
+###### input : 6
+###### output :
 | 1 | 7  | 12 | 16 | 19 | 21 |
 |---|----|----|----|----|----|
 | 2 | 8  | 13 | 17 | 20 |    |
